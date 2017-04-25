@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message TaskInfo {
+	string imgpath = 1;
+	string desc = 2;
+}
